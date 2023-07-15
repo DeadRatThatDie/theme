@@ -35,9 +35,9 @@
 --SKIN-grading-3: 9% !important;
 
 /* Interactive (HSLA) */
---SKIN-interactive-h: 195 !important;
---SKIN-interactive-s: 12% !important;
---SKIN-interactive-l: 55% !important;
+--SKIN-interactive-h: 309 !important;
+--SKIN-interactive-s: 100% !important;
+--SKIN-interactive-l: 85% !important;
 --SKIN-interactive-a: 1.0 !important;
 
 /* Background (HSLA) */
@@ -47,9 +47,9 @@
 --SKIN-background-a: 1.0 !important;
 
 /* Accent (HSLA) */
---SKIN-accent-h: 163 !important;
---SKIN-accent-s: 56% !important;
---SKIN-accent-l: 41% !important;
+--SKIN-accent-h: 309 !important;
+--SKIN-accent-s: 100% !important;
+--SKIN-accent-l: 85% !important;
 --SKIN-accent-a: 1.0 !important;
 
 /* Green (HSLA) */
